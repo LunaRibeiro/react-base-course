@@ -9,3 +9,7 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/react-base.iml
+/.idea/vcs.xml
